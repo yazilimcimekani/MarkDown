@@ -1,4 +1,4 @@
-<h1 align="center">Listeleler</h1>
+<h1 align="center">Listelemeler</h1>
 
 Listelemeler yaparak içeriğinizi pekiştirin.
 
