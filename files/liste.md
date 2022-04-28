@@ -8,11 +8,11 @@ Listeleme Türleri
 
 Sıra bilgisi olmadan saklanan içerikler için. (Alışveriş listesi vb.)
 
-    ```md
+```md
     - Lorem ipsum dolor sit amet
 
     - Lorem ipsum dolor sit amet
-    ```
+```
 
 Html'deki `<ul>` etiketine karşılık gelir.
 
@@ -20,11 +20,11 @@ Html'deki `<ul>` etiketine karşılık gelir.
 
 Sıra bilgisi ile saklanması gereken içerikler için. (Üstteki başlık bir sıralı liste örneğidir)
 
-    ```md
+```md
     1. Lorem ipsum dolor sit amet
 
     2. Lorem ipsum dolor sit amet
-    ```
+```
 
 Html'deki `<ol>` etiketine karşılık gelir.
 
