@@ -77,11 +77,12 @@ Html ile Yazımı:
 
 <br>
 
-<center>
-<a href="https://github.com/yazilimcimekani">
+<p align="center"> 
+<a href="https://discord.gg/yazilimcimekani">
     <img src="./assets/_ym_500x500_siyah_simple.gif" width="40%">
 </a>
+</p>
 
-Made with ❤️ by [Yazılımcı Mekanı](https://github.com/yazilimcimekani)
-
-</center>
+<p align="center">
+Made with ❤️ by <a href="https://github.com/yazilimcimekani">Yazılımcı Mekanı</a>
+</p>
