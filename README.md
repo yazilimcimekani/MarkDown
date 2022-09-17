@@ -1,6 +1,6 @@
 <h1 align="center">MarkDown Rehberi</h1>
 
-MarkDown ve Html syntaxlarını birleştirerek, daha güzel gözüken ve kullanışlı Ma%rkDown dosyaları oluşturma rehberi.
+MarkDown ve Html syntaxlarını birleştirerek, daha güzel gözüken ve kullanışlı MarkDown dosyaları oluşturma rehberi.
 
 - [Başlıklar](#başlıklar)
 - [Sırasız Listeler](#sırasız-listeler)
