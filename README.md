@@ -136,18 +136,3 @@ Html ile Yazımı:
 Çıktı:
 
 ![Üstü Çizili Yazı Çıktısı](./assets/yazi-stilleri-2_ustu-cizili.png)
-
-
----
-
-<br>
-
-<p align="center"> 
-<a href="https://discord.gg/yazilimcimekani">
-    <img src="./assets/_ym_500x500_siyah_simple.gif" width="40%">
-</a>
-</p>
-
-<p align="center">
-Made with ❤️ by <a href="https://github.com/yazilimcimekani">Yazılımcı Mekanı</a>
-</p>
